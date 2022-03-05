@@ -28,7 +28,7 @@
     "BOT_TOKEN": {
       "description": "A Bot's token from Botfather",
       "value": "",
-      "required": true
+      "required": false
     },
     "DURATION_LIMIT": {
       "description": "Duration Limit for Playout (In Mins).. Example: 60",
